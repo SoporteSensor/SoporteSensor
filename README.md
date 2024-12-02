@@ -1,5 +1,5 @@
 
-- esto va pa borrar cuentas
+- Para eliminar cuenta dirijase al archivo BorrarMiCuenta.md y contacte con el siguiente correo
 
 <!---
 SoporteSensor/SoporteSensor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
